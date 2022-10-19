@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**PabloRodriguez2B/PabloRodriguez2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Pablo Rodríguez** and I'm interested in the **animation**.
 
-Here are some ideas to get you started:
+I'm currently studying a **CFGS of 3D Animation, Games and Interactive Enviroments** 
+<br>
+at **CEV Barcelona**, the city where I actually live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays I'm able to use this programs:
+  1. *Adobe Photoshop*
+  2. *Maya*
+  3. *Unreal Engine*
+  4. *Unity Engine*
+  5. *Adobe Substance Painter*
+  6. *3ds Max*
+  7. *Adobe Audition*
+  8. *Zbrush*
+  9. *Adobe After Effects*
+  10. *Adobe Premiere*
+  
+I work clearly well under pressure
+  
+My Artstation is: https://www.artstation.com/pablorodriguezvergarab-ts3dv1mb21221
+<br>
+My e-mail is: pablo_rodriguez_b-ts3dv1mb2122@cev.com
+
