@@ -24,4 +24,6 @@ My Artstation is: https://www.artstation.com/pablorodriguezvergarab-ts3dv1mb2122
 <br>
 My e-mail is: pablo_rodriguez_b-ts3dv1mb2122@cev.com
 
-![Cangrejo](Cangrejo.jpg)
+Some of my works in Zbrush:
+<br>
+![Cangrejo](Cangrejo.jpg)   ![Dragón](Dragón.jpg)
