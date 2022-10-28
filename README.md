@@ -18,7 +18,7 @@ Nowadays I'm able to use this programs:
   9. *Adobe After Effects*
   10. *Adobe Premiere*
   
-I work clearly well under pressure
+I work clearly well under pressure and in team.
   
 My Artstation is: https://www.artstation.com/pablorodriguezvergarab-ts3dv1mb21221
 <br>
